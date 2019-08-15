@@ -1,2 +1,0 @@
-# chartReact
-Created with CodeSandbox
